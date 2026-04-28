@@ -1,0 +1,37 @@
+Privacy Policy — SourceLens
+
+Effective Date: April 27, 2026
+
+SourceLens is designed to analyze webpage content and provide contextual explanations and insights.
+
+Data Collection
+
+SourceLens does not collect, store, or sell personal user data.
+
+The extension only processes content that the user explicitly interacts with on a webpage (such as selected text or visible page content).
+
+Data Usage
+
+When the user activates the extension, selected webpage text may be temporarily processed to generate analysis and insights.
+
+If external processing services are used (such as an AI API), only the selected text necessary for generating a response is transmitted. No browsing history or unrelated webpage content is accessed.
+
+Data Storage
+
+SourceLens does not store personal data on external servers.
+
+Any preferences or settings are stored locally in the user’s browser using Chrome’s storage system and remain on the user’s device.
+
+Third Parties
+
+SourceLens does not share personal data with third parties for advertising, tracking, or analytics purposes.
+
+External services are only used to generate requested content responses and do not receive identifying user information.
+
+Security
+
+All data processing is limited to the functionality requested by the user and occurs only when the extension is actively used.
+
+Changes
+
+This privacy policy may be updated to reflect changes in functionality. Users will be notified through extension updates.
